@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Колко е  2 + 2?",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5"
+    },
+    "correctAnswer": "b",
+    "type": "Easy"
+  },
+  {
+    "question": "What is 3 * 3?",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "9"
+    },
+    "correctAnswer": "c",
+    "type": "Easy"
+  },
+  {
+    "question": "What is 1 / 2?",
+    "options": {
+      "a": "0.5",
+      "b": "0.7",
+      "c": "5"
+    },
+    "correctAnswer": "a",
+    "type": "Easy"
+  },
+  {
+    "question": "What is 9 - 5?",
+    "options": {
+      "a": "69",
+      "b": "4",
+      "c": "5"
+    },
+    "correctAnswer": "b",
+    "type": "Easy"
+  },
+
+
+
+  {
+    "question": "Каква е столицата на Франция?",
+    "options": {
+      "a": "Берлин",
+      "b": "Мадрид",
+      "c": "Париж"
+    },
+    "correctAnswer": "c",
+    "type": "Medium"
+  },
+  {
+    "question": "What is the Germany?",
+    "options": {
+      "a": "Berlin",
+      "b": "Country",
+      "c": "Paris"
+    },
+    "correctAnswer": "b",
+    "type": "Medium"
+  },
+  {
+    "question": "What is Europe?",
+    "options": {
+      "a": "Country",
+      "b": "Lassagne",
+      "c": "Continent"
+    },
+    "correctAnswer": "c",
+    "type": "Medium"
+  },
+  {
+    "question": "What is the capital of Bulgaria?",
+    "options": {
+      "a": "Sofia",
+      "b": "Madrid",
+      "c": "Paris"
+    },
+    "correctAnswer": "a",
+    "type": "Medium"
+  },
+
+
+
+  {
+    "question": "Are you human?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Orbit"
+    },
+    "correctAnswer": "a",
+    "type": "Hard"
+  },
+  {
+    "question": "Are you George?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Viet"
+    },
+    "correctAnswer": "c",
+    "type": "Hard"
+  },
+  {
+    "question": "Are you ChatGPT?",
+    "options": {
+      "a": "No",
+      "b": "Yes",
+      "c": "idk"
+    },
+    "correctAnswer": "a",
+    "type": "Hard"
+  },
+  {
+    "question": "What are you?",
+    "options": {
+      "a": "Human",
+      "b": "ChatGPT",
+      "c": "Mark Zukerberg"
+    },
+    "correctAnswer": "a",
+    "type": "Hard"
+  }
+]
