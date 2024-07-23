@@ -4,7 +4,8 @@
     "options": {
       "a": "3",
       "b": "4",
-      "c": "5"
+      "c": "5",
+      "d": "idk"
     },
     "correctAnswer": "b",
     "type": "Easy"
@@ -14,7 +15,8 @@
     "options": {
       "a": "3",
       "b": "4",
-      "c": "9"
+      "c": "9",
+      "d": "idk"
     },
     "correctAnswer": "c",
     "type": "Easy"
@@ -24,7 +26,8 @@
     "options": {
       "a": "0.5",
       "b": "0.7",
-      "c": "5"
+      "c": "5",
+      "d": "idk"
     },
     "correctAnswer": "a",
     "type": "Easy"
@@ -34,7 +37,8 @@
     "options": {
       "a": "69",
       "b": "4",
-      "c": "5"
+      "c": "5",
+      "d": "idk"
     },
     "correctAnswer": "b",
     "type": "Easy"
@@ -47,7 +51,8 @@
     "options": {
       "a": "Берлин",
       "b": "Мадрид",
-      "c": "Париж"
+      "c": "Париж",
+      "d": "idk"
     },
     "correctAnswer": "c",
     "type": "Medium"
@@ -57,7 +62,8 @@
     "options": {
       "a": "Berlin",
       "b": "Country",
-      "c": "Paris"
+      "c": "Paris",
+      "d": "idk"
     },
     "correctAnswer": "b",
     "type": "Medium"
@@ -67,7 +73,8 @@
     "options": {
       "a": "Country",
       "b": "Lassagne",
-      "c": "Continent"
+      "c": "Continent",
+      "d": "idk"
     },
     "correctAnswer": "c",
     "type": "Medium"
@@ -77,7 +84,8 @@
     "options": {
       "a": "Sofia",
       "b": "Madrid",
-      "c": "Paris"
+      "c": "Paris",
+      "d": "idk"
     },
     "correctAnswer": "a",
     "type": "Medium"
@@ -90,7 +98,8 @@
     "options": {
       "a": "Yes",
       "b": "No",
-      "c": "Orbit"
+      "c": "Orbit",
+      "d": "idk"
     },
     "correctAnswer": "a",
     "type": "Hard"
@@ -100,7 +109,8 @@
     "options": {
       "a": "Yes",
       "b": "No",
-      "c": "Viet"
+      "c": "Viet",
+      "d": "idk"
     },
     "correctAnswer": "c",
     "type": "Hard"
@@ -110,7 +120,8 @@
     "options": {
       "a": "No",
       "b": "Yes",
-      "c": "idk"
+      "c": "Yesn't",
+      "d": "idk"
     },
     "correctAnswer": "a",
     "type": "Hard"
@@ -120,7 +131,8 @@
     "options": {
       "a": "Human",
       "b": "ChatGPT",
-      "c": "Mark Zukerberg"
+      "c": "Mark Zukerberg",
+      "d": "idk"
     },
     "correctAnswer": "a",
     "type": "Hard"
